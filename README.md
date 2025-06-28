@@ -84,12 +84,6 @@ A fully functional, responsive video conferencing web application built using **
 
 ---
 
-## 📸 Screenshots
-
-*You can add screenshots/gifs of the app in action here.*
-
----
-
 ## 📌 Future Improvements
 
 * Chat functionality (text messaging alongside calls)
